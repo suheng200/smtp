@@ -1,2 +1,2 @@
 # smtp
-C语言实现SMTP发邮件
+C++实现SMTP发邮件
